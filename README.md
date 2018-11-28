@@ -13,5 +13,3 @@ Editando alguma coisa qualquer de novo!
 Adicionei a linha 13 aqui pra testar!
 
 Adicionando a linha 15 para testar a tag no repositório!
-
-Mais uma vez adicionando uma nova linha para testar o git revert
